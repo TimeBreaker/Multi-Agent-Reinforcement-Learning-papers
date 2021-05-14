@@ -206,7 +206,7 @@ My email: chenhao2019@ia.ac.cn
 * [MAPPO：The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games](https://arxiv.org/pdf/2103.01955)
 * [MADDPG：Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/pdf/1706.02275.pdf&quot;&gt;Multi-Agent)
 
-## Discrete-Continuous Hybrid Action Spaces / Parameterized Action Space
+## Discrete-Continuous Hybrid Action Space / Parameterized Action Space
 * [Deep Reinforcement Learning in Parameterized Action Space](https://arxiv.org/pdf/1511.04143)
 * [DMAPQN: Deep Multi-Agent Reinforcement Learning with Discrete-Continuous Hybrid Action Spaces](https://arxiv.org/pdf/1903.04959)
 * [H-PPO: Hybrid actor-critic reinforcement learning in parameterized action space](https://arxiv.org/pdf/1903.01344)
