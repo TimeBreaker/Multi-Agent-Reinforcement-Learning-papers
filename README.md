@@ -22,18 +22,10 @@ My email: chenhao2019@ia.ac.cn
 * SQDDPG：Shapley Q-Value: A Local Reward Approach to Solve Global Reward Games
 * QPLEX: Duplex Dueling Multi-Agent Q-Learning
 * QTRAN++: Improved Value Transformation for Cooperative Multi-Agent Reinforcement Learning
-* 
-* 
 
 ### Other Methods
 * COMA：Counterfactual Multi-Agent Policy Gradients
 * LiCA：Learning Implicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning
-* 
-* 
-* 
-* 
-* 
-* 
 
 ## Policy Gradient
 * MADDPG：Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
@@ -133,7 +125,6 @@ My email: chenhao2019@ia.ac.cn
 ## Meta-Learning
 * A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning
 * Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environment
-* 
 
 ## Fairness 
 * FEN：Learning Fairness in Multi-Agent Systems
@@ -160,19 +151,15 @@ My email: chenhao2019@ia.ac.cn
 
 ## Model-based
 * Model-based Multi-Agent Reinforcement Learning with Cooperative Prioritized Sweeping
-* 
-*
 
 ## NAS
 * MANAS: Multi-Agent Neural Architecture Search
-* 
-*
 
 ## Safe Multi-Agent Reinforcement Learning
 * MAMPS: Safe Multi-Agent Reinforcement Learning via Model Predictive Shielding
 * Safer Deep RL with Shallow MCTS: A Case Study in Pommerman
 
-## From single-agent to multi-agent
+## From Single-agent to Multi-agent
 * IQL：Multi-Agent Reinforcement Learning: Independent vs. Cooperative Agents
 * IPPO：Is Independent Learning All You Need in the StarCraft Multi-Agent Challenge?
 * MAPPO：The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games
