@@ -76,7 +76,6 @@ My email: chenhao2019@ia.ac.cn
 * MAPPO：The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games
 * MAAC：Actor-Attention-Critic for Multi-Agent Reinforcement Learning
 * DOP: Off-Policy Multi-Agent Decomposed PolicyGradients
-* MACKRL
 * Robust multi-agent reinforcement learning via minimax deep deterministic policy gradient
 
 ## Communication
@@ -130,9 +129,8 @@ My email: chenhao2019@ia.ac.cn
 * Real World Games Look Like Spinning Tops
 * Pipeline PSRO: A Scalable Approach for Finding Approximate Nash Equilibria in Large Games
 * A Game-Theoretic Model and Best-Response Learning Method for Ad Hoc Coordination in Multiagent Systems
-* NFSP
+* [Neural Replicator Dynamics: Multiagent Learning via Hedging Policy Gradients](http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p492.pdf)
 * PSRO: A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning
-* FSP
 
 ## Hierarchical
 * Hierarchical multi-agent reinforcement learning
@@ -166,7 +164,6 @@ My email: chenhao2019@ia.ac.cn
 ## Transfer Learning
 * A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems
 * Parallel Knowledge Transfer in Multi-Agent Reinforcement Learning
-* 
 
 ## Meta Learning
 * A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning
