@@ -3,7 +3,7 @@ This is a collection of Multi-Agent Reinforcement Learning (MARL) papers. Each c
 
 For MARL papers with code and MARL resources, please refer to [MARL Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code) and [MARL Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection).
 
-I will continually update this repository and I welcome suggestions. (missing important papers, missing categories, invalid links, etc.)It's only a first draft so far and I'll add more resources in the next few months.
+I will continually update this repository and I welcome suggestions. (missing important papers, missing categories, invalid links, etc.) This is only a first draft so far and I'll add more resources in the next few months.
 
 This repository is not for commercial purposes.
 
