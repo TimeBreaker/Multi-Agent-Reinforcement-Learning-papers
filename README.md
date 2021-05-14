@@ -135,9 +135,12 @@ My email: chenhao2019@ia.ac.cn
 * FSP
 
 ## Hierarchical
-* 
-* 
-* 
+* Hierarchical multi-agent reinforcement learning
+* Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery
+* Hierarchical Critics Assignment for Multi-agent Reinforcement Learning
+* Hierarchical Reinforcement Learning for Multi-agent MOBA Game
+* Hierarchical Deep Multiagent Reinforcement Learning with Temporal Abstraction
+* HAMA：Multi-Agent Actor-Critic with Hierarchical Graph Attention Network
 
 ## Ad Hoc Teamwork
 * CollaQ：Multi-Agent Collaboration via Reward Attribution Decomposition
