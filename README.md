@@ -79,7 +79,7 @@ My email: chenhao2019@ia.ac.cn
 * Robust multi-agent reinforcement learning via minimax deep deterministic policy gradient
 
 ## Communication
-### Communication without bandwidth constraint
+### Communication Without Bandwidth Constraint
 * CommNet：Learning Multiagent Communication with Backpropagation
 * BiCNet：Multiagent Bidirectionally-Coordinated Nets: Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games
 * VAIN: Attentional Multi-agent Predictive Modeling
@@ -89,7 +89,7 @@ My email: chenhao2019@ia.ac.cn
 * NDQ：Learning Nearly Decomposable Value Functions Via Communication Minimization
 * RIAL/RIDL：Learning to Communicate with Deep Multi-Agent Reinforcement Learning
 * ATOC：Learning Attentional Communication for Multi-Agent Cooperation
-### Communication under limited bandwidth
+### Communication Under Limited Bandwidth
 * SchedNet：Learning to Schedule Communication in Multi-Agent Reinforcement learning
 * Learning Multi-agent Communication under Limited-bandwidth Restriction for Internet Packet Routing
 * Gated-ACML：Learning Agent Communication under Limited Bandwidth by Message Pruning
