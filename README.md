@@ -212,6 +212,10 @@ My email: chenhao2019@ia.ac.cn
 * [H-PPO: Hybrid actor-critic reinforcement learning in parameterized action space](https://arxiv.org/pdf/1903.01344)
 * [P-DQN: Parametrized Deep Q-Networks Learning: Reinforcement Learning with Discrete-Continuous Hybrid Action Space](https://arxiv.org/pdf/1810.06394)
 
+## Role
+* [ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://openreview.net/pdf?id=RQP2wq-dbkz)
+* [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523)
+
 ## Multi-Agent Pathfinding
 * TODO
 
