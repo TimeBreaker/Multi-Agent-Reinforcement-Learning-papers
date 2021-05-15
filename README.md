@@ -219,9 +219,9 @@ My email: chenhao2019@ia.ac.cn
 * [ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://openreview.net/pdf?id=RQP2wq-dbkz)
 * [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523)
 
-## Multi-Agent Pathfinding
+## Multi-Agent Path Finding
 * TODO
 
 ## TODO
-* Multi-Agent Pathfinding
+* Multi-Agent Path Finding
 
