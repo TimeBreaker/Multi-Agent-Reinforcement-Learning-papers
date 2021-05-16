@@ -1,4 +1,4 @@
-# Multi Agent Reinforcement Learning papers
+# Multi-Agent Reinforcement Learning papers
 This is a collection of Multi-Agent Reinforcement Learning (MARL) papers. Each category is a potential start point for you to start your research. Some papers are listed more than once because they belong to multiple categories.
 
 For MARL papers with code and MARL resources, please refer to [MARL Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code) and [MARL Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection).
