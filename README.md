@@ -33,6 +33,7 @@ My email: chenhao2019@ia.ac.cn
 * [From Single-Agent to Multi-Agent](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#from-single-agent-to-multi-agent)
 * [Discrete-Continuous Hybrid Action Spaces / Parameterized Action Space](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#discrete-continuous-hybrid-action-space--parameterized-action-space)
 * [Role](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#role)
+* [Diversity](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#diversity)
 * [Multi-Agent Path Finding](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#multi-agent-path-finding)
 * [TODO](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#todo)
 
@@ -220,6 +221,15 @@ My email: chenhao2019@ia.ac.cn
 ## Role
 * [ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://openreview.net/pdf?id=RQP2wq-dbkz)
 * [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523)
+
+##Diversity
+* [Diverse Auto-Curriculum is Critical for Successful Real-World Multiagent Learning Systems](https://arxiv.org/pdf/2102.07659)
+* [Q-DPP：Multi-Agent Determinantal Q-Learning](http://proceedings.mlr.press/v119/yang20i/yang20i.pdf)
+* [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/pdf/1802.06070)
+* [Modelling Behavioural Diversity for Learning in Open-Ended Games](https://arxiv.org/pdf/2103.07927)
+* [Diverse Agents for Ad-Hoc Cooperation in Hanabi](https://arxiv.org/pdf/1907.03840)
+* [Generating Behavior-Diverse Game AIs with Evolutionary Multi-Objective Deep Reinforcement Learning](https://nos.netease.com/mg-file/mg/neteasegamecampus/art_works/20200812/202008122020238603.pdf)
+* [Quantifying environment and population diversity in multi-agent reinforcement learning](https://arxiv.org/pdf/2102.08370)
 
 ## Multi-Agent Path Finding
 * TODO
