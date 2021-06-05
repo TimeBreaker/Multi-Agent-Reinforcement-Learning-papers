@@ -222,7 +222,7 @@ My email: chenhao2019@ia.ac.cn
 * [ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://openreview.net/pdf?id=RQP2wq-dbkz)
 * [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523)
 
-##Diversity
+## Diversity
 * [Diverse Auto-Curriculum is Critical for Successful Real-World Multiagent Learning Systems](https://arxiv.org/pdf/2102.07659)
 * [Q-DPP：Multi-Agent Determinantal Q-Learning](http://proceedings.mlr.press/v119/yang20i/yang20i.pdf)
 * [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/pdf/1802.06070)
