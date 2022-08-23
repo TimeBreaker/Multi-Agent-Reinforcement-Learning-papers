@@ -237,3 +237,14 @@ My email: chenhao2019@ia.ac.cn
 ## TODO
 * Multi-Agent Path Finding
 
+## Citation
+
+If you find this repository useful, please cite our repo:
+```
+@misc{chen2021multi,
+  title={Multi-Agent Reinforcement Learning Papers},
+  author={Chen, Hao},
+  journal={https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers},
+  year={2021}
+}
+```
