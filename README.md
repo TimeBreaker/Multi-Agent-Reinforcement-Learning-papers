@@ -161,6 +161,7 @@ My email: chenhao2019@ia.ac.cn
 * [Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/download/4570/4448)
 * [StarCraft Micromanagement with Reinforcement Learning and Curriculum Transfer Learning](https://arxiv.org/pdf/1804.00810)
 * [Cooperative Multi-agent Control using deep reinforcement learning](http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf)
+* [Variational Automatic Curriculum Learning for Sparse-Reward Cooperative Multi-Agent Problems](https://proceedings.neurips.cc/paper/2021/file/503e7dbbd6217b9a591f3322f39b5a6c-Paper.pdf)
 
 ## Mean Field
 * [Mean Field Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v80/yang18d/yang18d.pdf)
