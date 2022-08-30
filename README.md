@@ -34,6 +34,7 @@ My email: chenhao2019@ia.ac.cn
 * [Discrete-Continuous Hybrid Action Spaces / Parameterized Action Space](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#discrete-continuous-hybrid-action-space--parameterized-action-space)
 * [Role](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#role)
 * [Diversity](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#diversity)
+* [Sparse Reward]()
 * [Multi-Agent Path Finding](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#multi-agent-path-finding)
 * [TODO](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#todo)
 
@@ -231,6 +232,12 @@ My email: chenhao2019@ia.ac.cn
 * [Diverse Agents for Ad-Hoc Cooperation in Hanabi](https://arxiv.org/pdf/1907.03840)
 * [Generating Behavior-Diverse Game AIs with Evolutionary Multi-Objective Deep Reinforcement Learning](https://nos.netease.com/mg-file/mg/neteasegamecampus/art_works/20200812/202008122020238603.pdf)
 * [Quantifying environment and population diversity in multi-agent reinforcement learning](https://arxiv.org/pdf/2102.08370)
+
+
+## Sparse Reward
+* [Variational Automatic Curriculum Learning for Sparse-Reward Cooperative Multi-Agent Problems](https://proceedings.neurips.cc/paper/2021/file/503e7dbbd6217b9a591f3322f39b5a6c-Paper.pdf)
+* [Individual Reward Assisted Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v162/wang22ao/wang22ao.pdf)
+
 
 ## Multi-Agent Path Finding
 * TODO
