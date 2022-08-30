@@ -34,7 +34,7 @@ My email: chenhao2019@ia.ac.cn
 * [Discrete-Continuous Hybrid Action Spaces / Parameterized Action Space](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#discrete-continuous-hybrid-action-space--parameterized-action-space)
 * [Role](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#role)
 * [Diversity](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#diversity)
-* [Sparse Reward]()
+* [Sparse Reward](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#sparse-reward)
 * [Multi-Agent Path Finding](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#multi-agent-path-finding)
 * [TODO](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#todo)
 
