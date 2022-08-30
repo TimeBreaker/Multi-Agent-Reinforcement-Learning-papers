@@ -61,6 +61,8 @@ My email: chenhao915@mails.ucas.ac.cn
 
 ## Dealing With Credit Assignment Issue
 ### Value Decomposition
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [VDN：Value-Decomposition Networks For Cooperative Multi-Agent Learning](https://arxiv.org/pdf/1706.05296)
 * [QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v80/rashid18a/rashid18a.pdf)
 * [QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.05408)
@@ -261,6 +263,20 @@ My email: chenhao915@mails.ucas.ac.cn
 ## Sparse Reward
 * [Variational Automatic Curriculum Learning for Sparse-Reward Cooperative Multi-Agent Problems](https://proceedings.neurips.cc/paper/2021/file/503e7dbbd6217b9a591f3322f39b5a6c-Paper.pdf)
 * [Individual Reward Assisted Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v162/wang22ao/wang22ao.pdf)
+
+## Large Scale
+* [From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://arxiv.org/abs/1909.02790)
+
+## DTDE
+
+## Decision Transformer
+Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks
+Multi-Agent Reinforcement Learning is a Sequence Modeling Problem
+
+## Offline MARL
+Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks
+
+## Generalization
 
 
 ## Multi-Agent Path Finding
