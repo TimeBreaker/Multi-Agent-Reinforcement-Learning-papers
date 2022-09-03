@@ -36,6 +36,7 @@ My email: chenhao915@mails.ucas.ac.cn
 * [Role](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#role)
 * [Diversity](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#diversity)
 * [Sparse Reward](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#sparse-reward)
+* 
 * [Multi-Agent Path Finding](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#multi-agent-path-finding)
 * [TODO](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#todo)
 
@@ -70,10 +71,10 @@ Paper|Code|Accepted at|Year
 [NDQ: Learning Nearly Decomposable Value Functions Via Communication Minimization](https://arxiv.org/abs/1910.05366v1)|https://github.com/TonghanWang/NDQ|ICLR|2020
 [CollaQ：Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/abs/2010.08531)|https://github.com/facebookresearch/CollaQ||2020
 [SQDDPG：Shapley Q-Value: A Local Reward Approach to Solve Global Reward Games](https://arxiv.org/abs/1907.05707)|https://github.com/hsvgbkhgbv/SQDDPG|AAAI|2020
-[QPLEX: Duplex Dueling Multi-Agent Q-Learning](https://arxiv.org/abs/2008.01062)|https://github.com/wjh720/QPLEX|ICLR|2021
 [QPD：Q-value Path Decomposition for Deep Multiagent Reinforcement Learning](http://proceedings.mlr.press/v119/yang20d/yang20d.pdf)||ICML|2020
 [Weighted QMIX: Expanding Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2006.10800)|https://github.com/oxwhirl/wqmix|NIPS|2020
 [QTRAN++: Improved Value Transformation for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2006.12010v2)|||2020
+[QPLEX: Duplex Dueling Multi-Agent Q-Learning](https://arxiv.org/abs/2008.01062)|https://github.com/wjh720/QPLEX|ICLR|2021
 
 ### Other Methods
 Paper|Code|Accepted at|Year
@@ -83,7 +84,9 @@ Paper|Code|Accepted at|Year
 
 
 ## Policy Gradient
-* [MADDPG：Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/abs/1706.02275v3)
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
+* [MADDPG：Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/abs/1706.02275v3)|https://github.com/openai/maddpg|NIPS|2017
 * [COMA：Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1705.08926)|https://github.com/oxwhirl/pymarl|AAAI|2018
 * [IPPO：Is Independent Learning All You Need in the StarCraft Multi-Agent Challenge?](https://arxiv.org/abs/2011.09533)
 * [MAPPO：The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games](https://arxiv.org/abs/2103.01955)
@@ -94,6 +97,8 @@ Paper|Code|Accepted at|Year
 
 ## Communication
 ### Communication Without Bandwidth Constraint
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [CommNet：Learning Multiagent Communication with Backpropagation](https://arxiv.org/abs/1605.07736)
 * [BiCNet：Multiagent Bidirectionally-Coordinated Nets: Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069)
 * [VAIN: Attentional Multi-agent Predictive Modeling](https://arxiv.org/abs/1706.06122)
@@ -106,6 +111,8 @@ Paper|Code|Accepted at|Year
 * [Fully decentralized multi-agent reinforcement learning with networked agents](http://proceedings.mlr.press/v80/zhang18n/zhang18n.pdf)
 * [TarMAC: Targeted Multi-Agent Communication](http://proceedings.mlr.press/v97/das19a/das19a.pdf)
 ### Communication Under Limited Bandwidth
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [SchedNet：Learning to Schedule Communication in Multi-Agent Reinforcement learning](https://arxiv.org/abs/1902.01554)
 * [Learning Multi-agent Communication under Limited-bandwidth Restriction for Internet Packet Routing](https://arxiv.org/abs/1903.05561)
 * [Gated-ACML：Learning Agent Communication under Limited Bandwidth by Message Pruning](https://arxiv.org/abs/1912.05304v1)
@@ -114,6 +121,8 @@ Paper|Code|Accepted at|Year
 
 
 ## Emergent
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [Multiagent Cooperation and Competition with Deep Reinforcement Learning](https://arxiv.org/abs/1511.08779v1)
 * [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037)
 * [Emergent preeminence of selfishness: an anomalous Parrondo perspective](https://kanghaocheong.files.wordpress.com/2020/02/koh-cheong2019_article_emergentpreeminenceofselfishne.pdf)
@@ -127,6 +136,8 @@ Paper|Code|Accepted at|Year
 
 
 ## Opponent Modeling
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [Bayesian Opponent Exploitation in Imperfect-Information Games](https://arxiv.org/abs/1603.03491v1)
 * [LOLA：Learning with Opponent-Learning Awareness](https://arxiv.org/abs/1709.04326)
 * [Variational Autoencoders for Opponent Modeling in Multi-Agent Systems](https://arxiv.org/abs/2001.10829)
@@ -137,6 +148,8 @@ Paper|Code|Accepted at|Year
 
 
 ## Game Theoretic
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [α-Rank: Multi-Agent Evaluation by Evolution](https://arxiv.org/abs/1903.01373)
 * [α^α -Rank: Practically Scaling α-Rank through Stochastic Optimisation](https://arxiv.org/abs/1909.11628)
 * [A Game Theoretic Framework for Model Based Reinforcement Learning](https://arxiv.org/abs/2004.07804)
@@ -151,6 +164,8 @@ Paper|Code|Accepted at|Year
 
 
 ## Hierarchical
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [Hierarchical multi-agent reinforcement learning](https://apps.dtic.mil/sti/pdfs/ADA440418.pdf)
 * [Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery](https://arxiv.org/pdf/1912.03558)
 * [Hierarchical Critics Assignment for Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1902.03079)
@@ -160,16 +175,22 @@ Paper|Code|Accepted at|Year
 
 
 ## Ad Hoc Teamwork
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [CollaQ：Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/pdf/2010.08531)
 * [A Game-Theoretic Model and Best-Response Learning Method for Ad Hoc Coordination in Multiagent Systems](https://arxiv.org/pdf/1506.01170)
 * [Half Field Offense: An Environment for Multiagent Learning and Ad Hoc Teamwork](https://www.cse.iitb.ac.in/~shivaram/papers/hmsks_ala_2016.pdf)
 
 
 ## League Training
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [AlphaStar：Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.gwern.net/docs/rl/2019-vinyals.pdf)
 
 
 ## Curriculum Learning
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [Diverse Auto-Curriculum is Critical for Successful Real-World Multiagent Learning Systems](https://arxiv.org/abs/2102.07659)
 * [From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://arxiv.org/abs/1909.02790)
 * [EPC：Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423)
@@ -181,28 +202,38 @@ Paper|Code|Accepted at|Year
 
 
 ## Mean Field
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [Mean Field Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v80/yang18d/yang18d.pdf)
 * [Efficient Ridesharing Order Dispatching with Mean Field Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1901.11454)
 * [Bayesian Multi-type Mean Field Multi-agent Imitation Learning](https://www.researchgate.net/profile/Wen_Dong5/publication/347240659_Bayesian_Multi-type_Mean_Field_Multi-agent_Imitation_Learning/links/5fd8c3b245851553a0bb78b1/Bayesian-Multi-type-Mean-Field-Multi-agent-Imitation-Learning.pdf)
 
 
 ## Transfer Learning
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.jair.org/index.php/jair/article/download/11396/26482)
 * [Parallel Knowledge Transfer in Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.13085)
 
 
 ## Meta Learning
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning](https://arxiv.org/pdf/2011.00382)
 * [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/pdf/1710.03641.pdf?source=post_page---------------------------)
 
 
 ## Fairness 
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [FEN：Learning Fairness in Multi-Agent Systems](https://arxiv.org/pdf/1910.14472)
 * [Fairness in Multiagent Resource Allocation  with Dynamic and Partial Observations](https://hal.archives-ouvertes.fr/hal-01808984/file/aamas-distrib-fairness-final.pdf)
 * [Fairness in Multi-agent Reinforcement Learning for Stock Trading](https://arxiv.org/pdf/2001.00918)
 
 
 ## Exploration
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [EITI/EDTI：Influence-Based Multi-Agent Exploration](https://arxiv.org/pdf/1910.05512)
 * [MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)
 * [CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1809.05188)
@@ -214,6 +245,8 @@ Paper|Code|Accepted at|Year
 
 
 ## Graph Neural Network 
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [Multi-Agent Game Abstraction via Graph Attention Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/6211/6067)
 * [Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation](https://arxiv.org/abs/1810.09202v1)
 * [Multi-Agent Reinforcement Learning with Graph Clustering](https://arxiv.org/pdf/2008.08808)
@@ -221,19 +254,27 @@ Paper|Code|Accepted at|Year
 
 
 ## Model-based
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [Model-based Multi-Agent Reinforcement Learning with Cooperative Prioritized Sweeping](https://arxiv.org/pdf/2001.07527)
 
 
 ## NAS
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [MANAS: Multi-Agent Neural Architecture Search](https://arxiv.org/pdf/1909.01051)
 
 
 ## Safe Multi-Agent Reinforcement Learning
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [MAMPS: Safe Multi-Agent Reinforcement Learning via Model Predictive Shielding](https://arxiv.org/pdf/1910.12639)
 * [Safer Deep RL with Shallow MCTS: A Case Study in Pommerman](https://arxiv.org/pdf/1904.05759)
 
 
 ## From Single-Agent to Multi-Agent
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [IQL：Multi-Agent Reinforcement Learning: Independent vs. Cooperative Agents](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.3701&rep=rep1&type=pdf)
 * [IPPO：Is Independent Learning All You Need in the StarCraft Multi-Agent Challenge?](https://arxiv.org/pdf/2011.09533)
 * [MAPPO：The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games](https://arxiv.org/pdf/2103.01955)
@@ -241,6 +282,8 @@ Paper|Code|Accepted at|Year
 
 
 ## Discrete-Continuous Hybrid Action Space / Parameterized Action Space
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [Deep Reinforcement Learning in Parameterized Action Space](https://arxiv.org/pdf/1511.04143)
 * [DMAPQN: Deep Multi-Agent Reinforcement Learning with Discrete-Continuous Hybrid Action Spaces](https://arxiv.org/pdf/1903.04959)
 * [H-PPO: Hybrid actor-critic reinforcement learning in parameterized action space](https://arxiv.org/pdf/1903.01344)
@@ -248,11 +291,15 @@ Paper|Code|Accepted at|Year
 
 
 ## Role
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://openreview.net/pdf?id=RQP2wq-dbkz)
 * [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523)
 
 
 ## Diversity
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [Diverse Auto-Curriculum is Critical for Successful Real-World Multiagent Learning Systems](https://arxiv.org/pdf/2102.07659)
 * [Q-DPP：Multi-Agent Determinantal Q-Learning](http://proceedings.mlr.press/v119/yang20i/yang20i.pdf)
 * [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/pdf/1802.06070)
@@ -263,22 +310,36 @@ Paper|Code|Accepted at|Year
 
 
 ## Sparse Reward
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [Variational Automatic Curriculum Learning for Sparse-Reward Cooperative Multi-Agent Problems](https://proceedings.neurips.cc/paper/2021/file/503e7dbbd6217b9a591f3322f39b5a6c-Paper.pdf)
 * [Individual Reward Assisted Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v162/wang22ao/wang22ao.pdf)
 
 ## Large Scale
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 * [From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://arxiv.org/abs/1909.02790)
 
 ## DTDE
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
+
 
 ## Decision Transformer
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks
 Multi-Agent Reinforcement Learning is a Sequence Modeling Problem
 
 ## Offline MARL
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks
 
 ## Generalization
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
+
 
 
 ## Multi-Agent Path Finding
