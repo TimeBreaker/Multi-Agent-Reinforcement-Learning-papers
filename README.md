@@ -105,10 +105,10 @@ Paper|Code|Accepted at|Year
 [IC3Net：Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://arxiv.org/abs/1812.09755)|https://github.com/IC3Net/IC3Net||2018
 [VBC：Efficient Communication in Multi-Agent Reinforcement Learning via Variance Based Control](https://arxiv.org/abs/1909.02682v1)
 [Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation](https://arxiv.org/abs/1810.09202v1)
-[NDQ：Learning Nearly Decomposable Value Functions Via Communication Minimization](https://arxiv.org/abs/1910.05366v1)
+[NDQ：Learning Nearly Decomposable Value Functions Via Communication Minimization](https://arxiv.org/abs/1910.05366v1)[NDQ: Learning Nearly Decomposable Value Functions Via Communication Minimization](https://arxiv.org/abs/1910.05366v1)|https://github.com/TonghanWang/NDQ|ICLR|2020
 [RIAL/RIDL：Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)|https://github.com/iassael/learning-to-communicate|NIPS|2016
 [ATOC：Learning Attentional Communication for Multi-Agent Cooperation](https://arxiv.org/abs/1805.07733)
-[Fully decentralized multi-agent reinforcement learning with networked agents](http://proceedings.mlr.press/v80/zhang18n/zhang18n.pdf)
+[Fully decentralized multi-agent reinforcement learning with networked agents](http://proceedings.mlr.press/v80/zhang18n/zhang18n.pdf)|https://github.com/cts198859/deeprl_network|ICML|2018
 [TarMAC: Targeted Multi-Agent Communication](http://proceedings.mlr.press/v97/das19a/das19a.pdf)
 ### Communication Under Limited Bandwidth
 Paper|Code|Accepted at|Year
@@ -129,7 +129,7 @@ Paper|Code|Accepted at|Year
 [Emergent Coordination Through Competition](https://arxiv.org/abs/1902.07151v2)
 [Biases for Emergent Communication in Multi-agent Reinforcement Learning](https://arxiv.org/abs/1912.05676)
 [Towards Graph Representation Learning in Emergent Communication](https://arxiv.org/abs/2001.09063)
-[Emergent Tool Use From Multi-Agent Autocurricula](https://arxiv.org/abs/1909.07528)
+[Emergent Tool Use From Multi-Agent Autocurricula](https://arxiv.org/abs/1909.07528)|https://github.com/openai/multi-agent-emergence-environments|ICLR|2020
 [On Emergent Communication in Competitive Multi-Agent Teams](https://arxiv.org/abs/2003.01848)
 [QED：Quasi-Equivalence Discovery for Zero-Shot Emergent Communication](https://arxiv.org/abs/2103.08067)
 [Incorporating Pragmatic Reasoning Communication into Emergent Language](https://arxiv.org/abs/2006.04109)
@@ -143,7 +143,7 @@ Paper|Code|Accepted at|Year
 [Variational Autoencoders for Opponent Modeling in Multi-Agent Systems](https://arxiv.org/abs/2001.10829)
 [Stable Opponent Shaping in Differentiable Games](https://arxiv.org/abs/1811.08469)
 [Opponent Modeling and Strategic Reasoning in the Real-time Strategy Game Starcraft](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/252930/565941_FULLTEXT01.pdf?sequence=2)
-[Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559)
+[Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559)|https://github.com/hhexiy/opponent|ICML|2016
 [Game Theory-Based Opponent Modeling in Large Imperfect-Information Games](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.6032&rep=rep1&type=pdf)
 
 
@@ -177,7 +177,7 @@ Paper|Code|Accepted at|Year
 ## Ad Hoc Teamwork
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[CollaQ：Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/pdf/2010.08531)
+[CollaQ：Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/pdf/2010.08531)|https://github.com/facebookresearch/CollaQ||2020
 [A Game-Theoretic Model and Best-Response Learning Method for Ad Hoc Coordination in Multiagent Systems](https://arxiv.org/pdf/1506.01170)
 [Half Field Offense: An Environment for Multiagent Learning and Ad Hoc Teamwork](https://www.cse.iitb.ac.in/~shivaram/papers/hmsks_ala_2016.pdf)
 
@@ -193,11 +193,11 @@ Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [Diverse Auto-Curriculum is Critical for Successful Real-World Multiagent Learning Systems](https://arxiv.org/abs/2102.07659)
 [From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://arxiv.org/abs/1909.02790)|https://github.com/starry-sky6688/MARL-Algorithms|AAAI|2020
-[EPC：Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423)
-[Emergent Tool Use From Multi-Agent Autocurricula](https://arxiv.org/pdf/1909.07528)
+[EPC：Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423)|https://github.com/qian18long/epciclr2020|ICLR|2020
+[Emergent Tool Use From Multi-Agent Autocurricula](https://arxiv.org/pdf/1909.07528)|https://github.com/openai/multi-agent-emergence-environments|ICLR|2020
 [Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/download/4570/4448)
 [StarCraft Micromanagement with Reinforcement Learning and Curriculum Transfer Learning](https://arxiv.org/pdf/1804.00810)
-[Cooperative Multi-agent Control using deep reinforcement learning](http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf)
+[Cooperative Multi-agent Control using deep reinforcement learning](http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf)|https://github.com/sisl/MADRL|AAMAS|2017
 [Variational Automatic Curriculum Learning for Sparse-Reward Cooperative Multi-Agent Problems](https://proceedings.neurips.cc/paper/2021/file/503e7dbbd6217b9a591f3322f39b5a6c-Paper.pdf)
 
 
@@ -234,13 +234,13 @@ Paper|Code|Accepted at|Year
 ## Exploration
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[EITI/EDTI：Influence-Based Multi-Agent Exploration](https://arxiv.org/pdf/1910.05512)
+[EITI/EDTI：Influence-Based Multi-Agent Exploration](https://arxiv.org/pdf/1910.05512)|https://github.com/TonghanWang/EITI-EDTI|ICLR|2020
 [MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/MARL-Algorithms|NIPS|2019
 [CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1809.05188)
 [Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1905.12127)
 [Exploration by Maximizing Renyi Entropy for Reward-Free RL Framework](https://arxiv.org/abs/2006.06193v3)
 [Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets Game Theory](https://arxiv.org/abs/2012.03083v2)
-[LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning](http://papers.neurips.cc/paper/8691-liir-learning-individual-intrinsic-reward-in-multi-agent-reinforcement-learning.pdf)
+[LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning](http://papers.neurips.cc/paper/8691-liir-learning-individual-intrinsic-reward-in-multi-agent-reinforcement-learning.pdf)|https://github.com/yalidu/liir|NIPS|2019
 [Social Influence as Intrinsic Motivation  for Multi-Agent Deep Reinforcement Learning](http://proceedings.mlr.press/v97/jaques19a/jaques19a.pdf)
 
 
@@ -277,7 +277,7 @@ Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [IQL：Multi-Agent Reinforcement Learning: Independent vs. Cooperative Agents](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.3701&rep=rep1&type=pdf)
 [IPPO：Is Independent Learning All You Need in the StarCraft Multi-Agent Challenge?](https://arxiv.org/pdf/2011.09533)
-[MAPPO：The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games](https://arxiv.org/pdf/2103.01955)
+[MAPPO：The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games](https://arxiv.org/pdf/2103.01955)|https://github.com/marlbenchmark/on-policy||2021
 [MADDPG：Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/pdf/1706.02275.pdf&quot;&gt;Multi-Agent)
 
 
@@ -293,15 +293,15 @@ Paper|Code|Accepted at|Year
 ## Role
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://openreview.net/pdf?id=RQP2wq-dbkz)
-[RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523)
+[ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://openreview.net/pdf?id=RQP2wq-dbkz)|https://github.com/TonghanWang/ROMA|ICML|2020
+[RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523)|https://github.com/TonghanWang/RODE|ICLR|2021
 
 
 ## Diversity
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [Diverse Auto-Curriculum is Critical for Successful Real-World Multiagent Learning Systems](https://arxiv.org/pdf/2102.07659)
-[Q-DPP：Multi-Agent Determinantal Q-Learning](http://proceedings.mlr.press/v119/yang20i/yang20i.pdf)
+[Q-DPP：Multi-Agent Determinantal Q-Learning](http://proceedings.mlr.press/v119/yang20i/yang20i.pdf)|https://github.com/QDPP-GitHub/QDPP|ICML|2020
 [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/pdf/1802.06070)
 [Modelling Behavioural Diversity for Learning in Open-Ended Games](https://arxiv.org/pdf/2103.07927)
 [Diverse Agents for Ad-Hoc Cooperation in Hanabi](https://arxiv.org/pdf/1907.03840)
@@ -313,7 +313,7 @@ Paper|Code|Accepted at|Year
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [Variational Automatic Curriculum Learning for Sparse-Reward Cooperative Multi-Agent Problems](https://proceedings.neurips.cc/paper/2021/file/503e7dbbd6217b9a591f3322f39b5a6c-Paper.pdf)
-[Individual Reward Assisted Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v162/wang22ao/wang22ao.pdf)
+[Individual Reward Assisted Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v162/wang22ao/wang22ao.pdf)|https://github.com/MDrW/ICML2022-IRAT|ICML|2022
 
 ## Large Scale
 Paper|Code|Accepted at|Year
@@ -339,6 +339,7 @@ Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Con
 ## Generalization
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
+[UNMAS: Multiagent Reinforcement Learningfor Unshaped Cooperative Scenarios](https://arxiv.org/pdf/2203.14477)|https://github.com/James0618/unmas|TNNLS|2021
 
 ## Adversarial
 Paper|Code|Accepted at|Year
@@ -353,6 +354,17 @@ Paper|Code|Accepted at|Year
 
 ## Multi-Agent Path Finding
 * TODO
+
+
+
+## To be Categorized
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
+[Mind-aware Multi-agent Management Reinforcement Learning](https://arxiv.org/pdf/1810.00147)|https://github.com/facebookresearch/M3RL|ICLR|2019
+[Emergence of grounded compositional language in multi-agent populations](https://ojs.aaai.org/index.php/AAAI/article/download/11492/11351)|https://github.com/bkgoksel/emergent-language|AAAI|2018
+[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/pdf/1710.03748.pdf%3Cp%3EKEYWORDS:&nbsp;Artificial)|https://github.com/openai/multiagent-competition|ICLR|2018
+[TLeague: A Framework for Competitive Self-Play based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2011.12895)|https://github.com/tencent-ailab/TLeague||2020
+[UPDeT: Universal Multi-agent Reinforcement Learning via Policy Decoupling with Transformers](https://openreview.net/forum?id=v9c7hr9ADKx)|https://github.com/hhhusiyi-monash/UPDeT|ICLR|2021
 
 
 ## TODO
