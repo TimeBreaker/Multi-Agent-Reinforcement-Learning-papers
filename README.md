@@ -12,7 +12,7 @@ My email: chenhao915@mails.ucas.ac.cn
 
 ## Overview
 * [Reviews](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#reviews)
-* [Environments]()
+* [Environments](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#environments)
 * [Dealing With Credit Assignment Issue](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#dealing-with-credit-assignment-issue)
 * [Policy Gradient](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#policy-gradient)
 * [Communication](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#communication)
@@ -37,8 +37,14 @@ My email: chenhao915@mails.ucas.ac.cn
 * [Role](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#role)
 * [Diversity](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#diversity)
 * [Sparse Reward](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#sparse-reward)
-* 
+* [Large Scale](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#large-scale)
+* [DTDE](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#dtde)
+* [Decision Transformer](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#decision-transformer)
+* [Offline MARL](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#offline-marl)
+* [Generalization](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#generalization)
+* [Adversarial](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#adversarial)
 * [Multi-Agent Path Finding](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#multi-agent-path-finding)
+* [To be Categorized](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#to-be-categorized)
 * [TODO](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#todo)
 
 
