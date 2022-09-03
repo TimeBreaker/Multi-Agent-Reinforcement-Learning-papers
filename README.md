@@ -79,7 +79,7 @@ Paper|Code|Accepted at|Year
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [COMA：Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1705.08926)|https://github.com/oxwhirl/pymarl|AAAI|2018
-[LiCA：Learning Implicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2007.02529v2)
+[LiCA：Learning Implicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2007.02529v2)|https://github.com/mzho7212/LICA|NIPS|2020
 
 
 ## Policy Gradient
