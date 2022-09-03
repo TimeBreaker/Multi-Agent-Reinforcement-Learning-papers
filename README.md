@@ -340,7 +340,16 @@ Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Con
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 
-
+## Adversarial
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
+[Certifiably Robust Policy Learning against Adversarial Communication in Multi-agent Systems](https://arxiv.org/pdf/2206.10158)|||2022
+[Distributed Multi-Agent Deep Reinforcement Learning for Robust Coordination against Noise](https://arxiv.org/pdf/2205.09705)|||2022
+[On the Robustness of Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.03722)||IEEE Security and Privacy Workshops|2020
+[Towards Comprehensive Testing on the Robustness of Cooperative Multi-agent Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Guo_Towards_Comprehensive_Testing_on_the_Robustness_of_Cooperative_Multi-Agent_Reinforcement_CVPRW_2022_paper.pdf)||CVPR workshop|2022
+[Robust Multi-Agent Reinforcement Learning via Minimax Deep Deterministic Policy Gradient](https://ojs.aaai.org/index.php/AAAI/article/view/4327/4205)||AAAI|2019
+[Multi-agent Deep Reinforcement Learning with Extremely Noisy Observations](https://arxiv.org/pdf/1812.00922)||NIPS Deep Reinforcement Learning Workshop|2018
+[Policy Regularization via Noisy Advantage Values for Cooperative Multi-agent Actor-Critic methods](https://arxiv.org/pdf/2106.14334)|||2021
 
 ## Multi-Agent Path Finding
 * TODO
