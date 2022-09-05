@@ -163,14 +163,14 @@ Paper|Code|Accepted at|Year
 ## Opponent Modeling
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[Bayesian Opponent Exploitation in Imperfect-Information Games](https://arxiv.org/abs/1603.03491v1)
-[LOLA：Learning with Opponent-Learning Awareness](https://arxiv.org/abs/1709.04326)
-[Variational Autoencoders for Opponent Modeling in Multi-Agent Systems](https://arxiv.org/abs/2001.10829)
-[Stable Opponent Shaping in Differentiable Games](https://arxiv.org/abs/1811.08469)
-[Opponent Modeling and Strategic Reasoning in the Real-time Strategy Game Starcraft](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/252930/565941_FULLTEXT01.pdf?sequence=2)
+[Bayesian Opponent Exploitation in Imperfect-Information Games](https://arxiv.org/abs/1603.03491v1)||IEEE Conference on Computational Intelligence and Games|2018
+[LOLA：Learning with Opponent-Learning Awareness](https://arxiv.org/abs/1709.04326)||AAMAS|2018
+[Variational Autoencoders for Opponent Modeling in Multi-Agent Systems](https://arxiv.org/abs/2001.10829)|||2020
+[Stable Opponent Shaping in Differentiable Games](https://arxiv.org/abs/1811.08469)|||2018
 [Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559)|https://github.com/hhexiy/opponent|ICML|2016
-[Game Theory-Based Opponent Modeling in Large Imperfect-Information Games](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.6032&rep=rep1&type=pdf)
+[Game Theory-Based Opponent Modeling in Large Imperfect-Information Games](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.6032&rep=rep1&type=pdf)||AAMAS|2011
 [Agent Modelling under Partial Observability for Deep Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/file/a03caec56cd82478bf197475b48c05f9-Paper.pdf)||NIPS|2021
+<!-- [Opponent Modeling and Strategic Reasoning in the Real-time Strategy Game Starcraft](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/252930/565941_FULLTEXT01.pdf?sequence=2) -->
 
 
 ## Game Theoretic
