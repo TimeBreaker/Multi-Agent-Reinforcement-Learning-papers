@@ -175,17 +175,17 @@ Paper|Code|Accepted at|Year
 ## Game Theoretic
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[α-Rank: Multi-Agent Evaluation by Evolution](https://arxiv.org/abs/1903.01373)
-[α^α -Rank: Practically Scaling α-Rank through Stochastic Optimisation](https://arxiv.org/abs/1909.11628)
-[A Game Theoretic Framework for Model Based Reinforcement Learning](https://arxiv.org/abs/2004.07804)
-[Fictitious Self-Play in Extensive-Form Games](http://proceedings.mlr.press/v37/heinrich15.pdf)
-[An Analysis of Stochastic Game Theory for Multiagent Reinforcement Learning](https://www.cs.cmu.edu/~mmv/papers/00TR-mike.pdf)
-[Combining Deep Reinforcement Learning and Search for Imperfect-Information Games](https://arxiv.org/pdf/2007.13544)
-[Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468)
-[PSRO: A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning](https://arxiv.org/pdf/1711.00832)
-[Pipeline PSRO: A Scalable Approach for Finding Approximate Nash Equilibria in Large Games](https://arxiv.org/pdf/2006.08555)
-[A Game-Theoretic Model and Best-Response Learning Method for Ad Hoc Coordination in Multiagent Systems](https://arxiv.org/pdf/1506.01170)
-[Neural Replicator Dynamics: Multiagent Learning via Hedging Policy Gradients](http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p492.pdf)
+[α-Rank: Multi-Agent Evaluation by Evolution](https://arxiv.org/abs/1903.01373)||Scientific reports|2019
+[α^α -Rank: Practically Scaling α-Rank through Stochastic Optimisation](https://arxiv.org/abs/1909.11628)||AAMAS|2020
+[A Game Theoretic Framework for Model Based Reinforcement Learning](https://arxiv.org/abs/2004.07804)||ICML|2020
+[Fictitious Self-Play in Extensive-Form Games](http://proceedings.mlr.press/v37/heinrich15.pdf)||ICML|2015
+[Combining Deep Reinforcement Learning and Search for Imperfect-Information Games](https://arxiv.org/pdf/2007.13544)||NIPS|2020
+[Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468)||NIPS|2020
+[PSRO: A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning](https://arxiv.org/pdf/1711.00832)||NIPS|2017
+[Pipeline PSRO: A Scalable Approach for Finding Approximate Nash Equilibria in Large Games](https://arxiv.org/pdf/2006.08555)||NIPS|2020
+[A Game-Theoretic Model and Best-Response Learning Method for Ad Hoc Coordination in Multiagent Systems](https://arxiv.org/pdf/1506.01170)||AAMAS|2013
+[Neural Replicator Dynamics: Multiagent Learning via Hedging Policy Gradients](http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p492.pdf)||AAMAS|2020
+<!-- [An Analysis of Stochastic Game Theory for Multiagent Reinforcement Learning](https://www.cs.cmu.edu/~mmv/papers/00TR-mike.pdf) -->
 
 
 ## Hierarchical
