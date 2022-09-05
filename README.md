@@ -43,7 +43,6 @@ My email: chenhao915@mails.ucas.ac.cn
 * [Offline MARL](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#offline-marl)
 * [Generalization](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#generalization)
 * [Adversarial](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#adversarial)
-* [Agent Modelling]()
 * [Multi-Agent Path Finding](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#multi-agent-path-finding)
 * [To be Categorized](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#to-be-categorized)
 * [TODO](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#todo)
@@ -170,6 +169,7 @@ Paper|Code|Accepted at|Year
 [Opponent Modeling and Strategic Reasoning in the Real-time Strategy Game Starcraft](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/252930/565941_FULLTEXT01.pdf?sequence=2)
 [Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559)|https://github.com/hhexiy/opponent|ICML|2016
 [Game Theory-Based Opponent Modeling in Large Imperfect-Information Games](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.6032&rep=rep1&type=pdf)
+[Agent Modelling under Partial Observability for Deep Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/file/a03caec56cd82478bf197475b48c05f9-Paper.pdf)||NIPS|2021
 
 
 ## Game Theoretic
@@ -377,11 +377,6 @@ Paper|Code|Accepted at|Year
 [Robust Multi-Agent Reinforcement Learning via Minimax Deep Deterministic Policy Gradient](https://ojs.aaai.org/index.php/AAAI/article/view/4327/4205)||AAAI|2019
 [Multi-agent Deep Reinforcement Learning with Extremely Noisy Observations](https://arxiv.org/pdf/1812.00922)||NIPS Deep Reinforcement Learning Workshop|2018
 [Policy Regularization via Noisy Advantage Values for Cooperative Multi-agent Actor-Critic methods](https://arxiv.org/pdf/2106.14334)|||2021
-
-## Agent Modelling
-Paper|Code|Accepted at|Year
---|:--:|:--:|--:
-[Agent Modelling under Partial Observability for Deep Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/file/a03caec56cd82478bf197475b48c05f9-Paper.pdf)||NIPS|2021
 
 
 ## Multi-Agent Path Finding
