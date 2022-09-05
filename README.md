@@ -279,9 +279,9 @@ Paper|Code|Accepted at|Year
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [Multi-Agent Game Abstraction via Graph Attention Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/6211/6067)|https://github.com/starry-sky6688/MARL-Algorithms|AAAI|2020
-[Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation](https://arxiv.org/abs/1810.09202v1)
-[Multi-Agent Reinforcement Learning with Graph Clustering](https://arxiv.org/pdf/2008.08808)
-[Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems](http://proceedings.mlr.press/v80/bargiacchi18a/bargiacchi18a.pdf)
+[Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation](https://arxiv.org/abs/1810.09202v1)||ICLR|2020
+[Multi-Agent Reinforcement Learning with Graph Clustering](https://arxiv.org/pdf/2008.08808)|||2020
+[Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems](http://proceedings.mlr.press/v80/bargiacchi18a/bargiacchi18a.pdf)||ICML|2018
 
 
 ## Model-based
@@ -350,27 +350,38 @@ Paper|Code|Accepted at|Year
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://arxiv.org/abs/1909.02790)|https://github.com/starry-sky6688/MARL-Algorithms|AAAI|2020
+[PooL: Pheromone-inspired Communication Framework for Large Scale Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2202.09722)|||2022
+[Factorized Q-learning for large-scale multi-agent systems](https://dl.acm.org/doi/pdf/10.1145/3356464.3357707?casa_token=CNK3OslP6hkAAAAA:yZFMOmNQB1iasPqxmA6DYDIFe79RdMqUu_8Y7sGASsPNQ3u4o0UkAcqwMTahAwSUcDuh5r6NvSAyig)||ICDAI|2019
+[EPC：Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423)|https://github.com/qian18long/epciclr2020|ICLR|2020
+[Mean Field Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v80/yang18d/yang18d.pdf)||ICML|2018
+
 
 ## DTDE
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
+[Networked Multi-Agent Reinforcement Learning in Continuous Spaces](https://sci-hub.ee/)||IEEE conference on decision and control|2018
+[Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/file/8a0e1141fd37fa5b98d5bb769ba1a7cc-Paper.pdf)||NIPS|2019
+[Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](http://proceedings.mlr.press/v80/zhang18n/zhang18n.pdf)||ICML|2018
 
 
 ## Decision Transformer
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks
-Multi-Agent Reinforcement Learning is a Sequence Modeling Problem
+[Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks](https://arxiv.org/pdf/2112.02845)|||2021
+[Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/pdf/2205.14953)|||2022
 
 ## Offline MARL
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks
+[Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks](https://arxiv.org/pdf/2112.02845)|||2021
+[Believe what you see: Implicit constraint approach for offline multi-agent reinforcement learning](https://proceedings.neurips.cc/paper/2021/file/550a141f12de6341fba65b0ad0433500-Paper.pdf)||NIPS|2021
 
-## Generalization
+
+<!-- ## Generalization
 Paper|Code|Accepted at|Year
---|:--:|:--:|--:
-[UNMAS: Multiagent Reinforcement Learningfor Unshaped Cooperative Scenarios](https://arxiv.org/pdf/2203.14477)|https://github.com/James0618/unmas|TNNLS|2021
+--|:--:|:--:|--: -->
+
+
 
 ## Adversarial
 Paper|Code|Accepted at|Year
@@ -388,7 +399,6 @@ Paper|Code|Accepted at|Year
 * TODO
 
 
-
 ## To be Categorized
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
@@ -398,6 +408,7 @@ Paper|Code|Accepted at|Year
 [TLeague: A Framework for Competitive Self-Play based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2011.12895)|https://github.com/tencent-ailab/TLeague||2020
 [UPDeT: Universal Multi-agent Reinforcement Learning via Policy Decoupling with Transformers](https://openreview.net/forum?id=v9c7hr9ADKx)|https://github.com/hhhusiyi-monash/UPDeT|ICLR|2021
 [SIDE: State Inference for Partially Observable Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1400.pdf)|https://github.com/deligentfool/SIDE|AAMAS|2022
+[UNMAS: Multiagent Reinforcement Learningfor Unshaped Cooperative Scenarios](https://arxiv.org/pdf/2203.14477)|https://github.com/James0618/unmas|TNNLS|2021
 
 
 ## TODO
