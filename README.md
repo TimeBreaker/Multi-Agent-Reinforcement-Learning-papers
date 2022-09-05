@@ -192,12 +192,12 @@ Paper|Code|Accepted at|Year
 ## Hierarchical
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[Hierarchical multi-agent reinforcement learning](https://apps.dtic.mil/sti/pdfs/ADA440418.pdf)
-[Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery](https://arxiv.org/pdf/1912.03558)
-[Hierarchical Critics Assignment for Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1902.03079)
-[Hierarchical Reinforcement Learning for Multi-agent MOBA Game](https://arxiv.org/pdf/1901.08004)
-[Hierarchical Deep Multiagent Reinforcement Learning with Temporal Abstraction](https://arxiv.org/pdf/1809.09332)
-[HAMA：Multi-Agent Actor-Critic with Hierarchical Graph Attention Network](https://ojs.aaai.org/index.php/AAAI/article/download/6214/6070)
+[Hierarchical multi-agent reinforcement learning](https://apps.dtic.mil/sti/pdfs/ADA440418.pdf)||AAMAS|2006
+[Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery](https://arxiv.org/pdf/1912.03558)||AAMAS|2020
+[Hierarchical Critics Assignment for Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1902.03079)|||2019
+[Hierarchical Reinforcement Learning for Multi-agent MOBA Game](https://arxiv.org/pdf/1901.08004)|||2019
+[Hierarchical Deep Multiagent Reinforcement Learning with Temporal Abstraction](https://arxiv.org/pdf/1809.09332)|||2018
+[HAMA：Multi-Agent Actor-Critic with Hierarchical Graph Attention Network](https://ojs.aaai.org/index.php/AAAI/article/download/6214/6070)||AAAI|2020
 
 
 ## Ad Hoc Teamwork
@@ -207,55 +207,59 @@ Paper|Code|Accepted at|Year
 [A Game-Theoretic Model and Best-Response Learning Method for Ad Hoc Coordination in Multiagent Systems](https://arxiv.org/pdf/1506.01170)||AAMAS|2013
 [Half Field Offense: An Environment for Multiagent Learning and Ad Hoc Teamwork](https://www.cse.iitb.ac.in/~shivaram/papers/hmsks_ala_2016.pdf)|https://github.com/LARG/HFO|AAMAS Workshop|2016
 [Open Ad Hoc Teamwork using Graph-based Policy Learning](http://proceedings.mlr.press/v139/rahman21a/rahman21a.pdf)|https://github.com/uoe-agents/GPL|ICLM|2021
+[A Survey of Ad Hoc Teamwork: Definitions, Methods, and Open Problems](https://arxiv.org/pdf/2202.10450)|||2022
+[Towards open ad hoc teamwork using graph-based policy learning](http://proceedings.mlr.press/v139/rahman21a/rahman21a.pdf)||ICML|2021
+[Learning with generated teammates to achieve type-free ad-hoc teamwork](https://www.ijcai.org/proceedings/2021/0066.pdf)||IJCAI|2021
+[Online ad hoc teamwork under partial observability](https://openreview.net/pdf?id=18Ys0-PzyPI)||ICLR|2022
 
 
 ## League Training
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[AlphaStar：Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.gwern.net/docs/rl/2019-vinyals.pdf)
+[AlphaStar：Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.gwern.net/docs/rl/2019-vinyals.pdf)||Nature|2019
 
 
 ## Curriculum Learning
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[Diverse Auto-Curriculum is Critical for Successful Real-World Multiagent Learning Systems](https://arxiv.org/abs/2102.07659)
+[Diverse Auto-Curriculum is Critical for Successful Real-World Multiagent Learning Systems](https://arxiv.org/abs/2102.07659)||AAMAS|2021
 [From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://arxiv.org/abs/1909.02790)|https://github.com/starry-sky6688/MARL-Algorithms|AAAI|2020
 [EPC：Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423)|https://github.com/qian18long/epciclr2020|ICLR|2020
 [Emergent Tool Use From Multi-Agent Autocurricula](https://arxiv.org/pdf/1909.07528)|https://github.com/openai/multi-agent-emergence-environments|ICLR|2020
-[Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/download/4570/4448)
-[StarCraft Micromanagement with Reinforcement Learning and Curriculum Transfer Learning](https://arxiv.org/pdf/1804.00810)
+[Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/download/4570/4448)||AAAI|2019
+[StarCraft Micromanagement with Reinforcement Learning and Curriculum Transfer Learning](https://arxiv.org/pdf/1804.00810)||IEEE Transactions on Emerging Topics in Computational Intelligence|2018
 [Cooperative Multi-agent Control using deep reinforcement learning](http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf)|https://github.com/sisl/MADRL|AAMAS|2017
-[Variational Automatic Curriculum Learning for Sparse-Reward Cooperative Multi-Agent Problems](https://proceedings.neurips.cc/paper/2021/file/503e7dbbd6217b9a591f3322f39b5a6c-Paper.pdf)
+[Variational Automatic Curriculum Learning for Sparse-Reward Cooperative Multi-Agent Problems](https://proceedings.neurips.cc/paper/2021/file/503e7dbbd6217b9a591f3322f39b5a6c-Paper.pdf)||NIPS|2021
 
 
 ## Mean Field
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[Mean Field Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v80/yang18d/yang18d.pdf)
-[Efficient Ridesharing Order Dispatching with Mean Field Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1901.11454)
-[Bayesian Multi-type Mean Field Multi-agent Imitation Learning](https://www.researchgate.net/profile/Wen_Dong5/publication/347240659_Bayesian_Multi-type_Mean_Field_Multi-agent_Imitation_Learning/links/5fd8c3b245851553a0bb78b1/Bayesian-Multi-type-Mean-Field-Multi-agent-Imitation-Learning.pdf)
+[Mean Field Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v80/yang18d/yang18d.pdf)||ICML|2018
+[Efficient Ridesharing Order Dispatching with Mean Field Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1901.11454)||The world wide web conference|2019
+[Bayesian Multi-type Mean Field Multi-agent Imitation Learning](https://www.researchgate.net/profile/Wen_Dong5/publication/347240659_Bayesian_Multi-type_Mean_Field_Multi-agent_Imitation_Learning/links/5fd8c3b245851553a0bb78b1/Bayesian-Multi-type-Mean-Field-Multi-agent-Imitation-Learning.pdf)||NIPS|2020
 
 
 ## Transfer Learning
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.jair.org/index.php/jair/article/download/11396/26482)
-[Parallel Knowledge Transfer in Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.13085)
+[A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.jair.org/index.php/jair/article/download/11396/26482)||Journal of Artificial Intelligence Research|2019
+[Parallel Knowledge Transfer in Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.13085)|||2020
 
 
 ## Meta Learning
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning](https://arxiv.org/pdf/2011.00382)
-[Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/pdf/1710.03641.pdf?source=post_page---------------------------)
+[A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning](https://arxiv.org/pdf/2011.00382)||ICML|2021
+[Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/pdf/1710.03641.pdf?source=post_page---------------------------)|||2017
 
 
 ## Fairness 
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[FEN：Learning Fairness in Multi-Agent Systems](https://arxiv.org/pdf/1910.14472)
-[Fairness in Multiagent Resource Allocation  with Dynamic and Partial Observations](https://hal.archives-ouvertes.fr/hal-01808984/file/aamas-distrib-fairness-final.pdf)
-[Fairness in Multi-agent Reinforcement Learning for Stock Trading](https://arxiv.org/pdf/2001.00918)
+[FEN：Learning Fairness in Multi-Agent Systems](https://arxiv.org/pdf/1910.14472)||NIPS|2019
+[Fairness in Multiagent Resource Allocation  with Dynamic and Partial Observations](https://hal.archives-ouvertes.fr/hal-01808984/file/aamas-distrib-fairness-final.pdf)||AAMAS|2018
+[Fairness in Multi-agent Reinforcement Learning for Stock Trading](https://arxiv.org/pdf/2001.00918)|||2019
 
 
 ## Exploration
@@ -263,12 +267,12 @@ Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [EITI/EDTI：Influence-Based Multi-Agent Exploration](https://arxiv.org/pdf/1910.05512)|https://github.com/TonghanWang/EITI-EDTI|ICLR|2020
 [MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/MARL-Algorithms|NIPS|2019
-[CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1809.05188)
-[Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1905.12127)
-[Exploration by Maximizing Renyi Entropy for Reward-Free RL Framework](https://arxiv.org/abs/2006.06193v3)
-[Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets Game Theory](https://arxiv.org/abs/2012.03083v2)
+[CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1809.05188)|||2018
+[Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1905.12127)|||2019
+[Exploration by Maximizing Renyi Entropy for Reward-Free RL Framework](https://arxiv.org/abs/2006.06193v3)||AAAI|2021
+[Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets Game Theory](https://arxiv.org/abs/2012.03083v2)||AAAI|2021
 [LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning](http://papers.neurips.cc/paper/8691-liir-learning-individual-intrinsic-reward-in-multi-agent-reinforcement-learning.pdf)|https://github.com/yalidu/liir|NIPS|2019
-[Social Influence as Intrinsic Motivation  for Multi-Agent Deep Reinforcement Learning](http://proceedings.mlr.press/v97/jaques19a/jaques19a.pdf)
+[Social Influence as Intrinsic Motivation  for Multi-Agent Deep Reinforcement Learning](http://proceedings.mlr.press/v97/jaques19a/jaques19a.pdf)||ICML|2019
 
 
 ## Graph Neural Network 
@@ -393,6 +397,7 @@ Paper|Code|Accepted at|Year
 [Emergent Complexity via Multi-Agent Competition](https://arxiv.org/pdf/1710.03748.pdf%3Cp%3EKEYWORDS:&nbsp;Artificial)|https://github.com/openai/multiagent-competition|ICLR|2018
 [TLeague: A Framework for Competitive Self-Play based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2011.12895)|https://github.com/tencent-ailab/TLeague||2020
 [UPDeT: Universal Multi-agent Reinforcement Learning via Policy Decoupling with Transformers](https://openreview.net/forum?id=v9c7hr9ADKx)|https://github.com/hhhusiyi-monash/UPDeT|ICLR|2021
+[SIDE: State Inference for Partially Observable Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1400.pdf)|https://github.com/deligentfool/SIDE|AAMAS|2022
 
 
 ## TODO
