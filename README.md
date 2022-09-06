@@ -281,6 +281,8 @@ Paper|Code|Accepted at|Year
 [REMAX: Relational Representation for Multi-Agent Exploration](https://dl.acm.org/doi/abs/10.5555/3535850.3535977)||AAMAS|2022
 
 ### Uncategorized
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
 [CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1809.05188)||ICLR|2020
 [Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1905.12127)|||2019
 [Exploration by Maximizing Renyi Entropy for Reward-Free RL Framework](https://arxiv.org/abs/2006.06193v3)||AAAI|2021
