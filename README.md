@@ -263,16 +263,29 @@ Paper|Code|Accepted at|Year
 
 
 ## Exploration
+
+### Dense Reward
+Paper|Code|Accepted at|Year
+--|:--:|:--:|--:
+[MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/MARL-Algorithms|NIPS|2019
+[Social Influence as Intrinsic Motivation  for Multi-Agent Deep Reinforcement Learning](http://proceedings.mlr.press/v97/jaques19a/jaques19a.pdf)||ICML|2019
+[Episodic Multi-agent Reinforcement Learning with Curiosity-driven Exploration](https://proceedings.neurips.cc/paper/2021/file/1e8ca836c962598551882e689265c1c5-Paper.pdf)||NIPS|2021
+[Celebrating Diversity in Shared Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/file/20aee3a5f4643755a79ee5f6a73050ac-Paper.pdf)|https://github.com/lich14/CDS|NIPS|2021
+
+### Sparse Reward
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [EITI/EDTI：Influence-Based Multi-Agent Exploration](https://arxiv.org/pdf/1910.05512)|https://github.com/TonghanWang/EITI-EDTI|ICLR|2020
-[MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/MARL-Algorithms|NIPS|2019
-[CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1809.05188)|||2018
+[Cooperative Exploration for Multi-Agent Deep Reinforcement Learning](http://proceedings.mlr.press/v139/liu21j/liu21j.pdf)||ICML|2021
+[Centralized Model and Exploration Policy for Multi-Agent](https://arxiv.org/pdf/2107.06434)|||2021
+[REMAX: Relational Representation for Multi-Agent Exploration](https://dl.acm.org/doi/abs/10.5555/3535850.3535977)||AAMAS|2022
+
+### Uncategorized
+[CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1809.05188)||ICLR|2020
 [Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1905.12127)|||2019
 [Exploration by Maximizing Renyi Entropy for Reward-Free RL Framework](https://arxiv.org/abs/2006.06193v3)||AAAI|2021
 [Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets Game Theory](https://arxiv.org/abs/2012.03083v2)||AAAI|2021
 [LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning](http://papers.neurips.cc/paper/8691-liir-learning-individual-intrinsic-reward-in-multi-agent-reinforcement-learning.pdf)|https://github.com/yalidu/liir|NIPS|2019
-[Social Influence as Intrinsic Motivation  for Multi-Agent Deep Reinforcement Learning](http://proceedings.mlr.press/v97/jaques19a/jaques19a.pdf)||ICML|2019
 
 
 ## Graph Neural Network 
@@ -359,7 +372,7 @@ Paper|Code|Accepted at|Year
 ## DTDE
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[Networked Multi-Agent Reinforcement Learning in Continuous Spaces](https://sci-hub.ee/)||IEEE conference on decision and control|2018
+[Networked Multi-Agent Reinforcement Learning in Continuous Spaces](https://ieeexplore.ieee.org/abstract/document/8619581)||IEEE conference on decision and control|2018
 [Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/file/8a0e1141fd37fa5b98d5bb769ba1a7cc-Paper.pdf)||NIPS|2019
 [Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](http://proceedings.mlr.press/v80/zhang18n/zhang18n.pdf)||ICML|2018
 
