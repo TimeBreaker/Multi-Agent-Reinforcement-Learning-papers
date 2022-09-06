@@ -411,6 +411,7 @@ Paper|Code|Accepted at|Year
 [UPDeT: Universal Multi-agent Reinforcement Learning via Policy Decoupling with Transformers](https://openreview.net/forum?id=v9c7hr9ADKx)|https://github.com/hhhusiyi-monash/UPDeT|ICLR|2021
 [SIDE: State Inference for Partially Observable Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1400.pdf)|https://github.com/deligentfool/SIDE|AAMAS|2022
 [UNMAS: Multiagent Reinforcement Learningfor Unshaped Cooperative Scenarios](https://arxiv.org/pdf/2203.14477)|https://github.com/James0618/unmas|TNNLS|2021
+[Context-Aware Sparse Deep Coordination Graphs](https://arxiv.org/pdf/2106.02886)|https://github.com/TonghanWang/CASEC-MACO-benchmark|ICLR|2022
 
 
 ## TODO
