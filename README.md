@@ -369,6 +369,7 @@ Paper|Code|Accepted at|Year
 [Factorized Q-learning for large-scale multi-agent systems](https://dl.acm.org/doi/pdf/10.1145/3356464.3357707?casa_token=CNK3OslP6hkAAAAA:yZFMOmNQB1iasPqxmA6DYDIFe79RdMqUu_8Y7sGASsPNQ3u4o0UkAcqwMTahAwSUcDuh5r6NvSAyig)||ICDAI|2019
 [EPC：Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423)|https://github.com/qian18long/epciclr2020|ICLR|2020
 [Mean Field Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v80/yang18d/yang18d.pdf)||ICML|2018
+[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](https://arxiv.org/pdf/1709.04511)||AAMAS|2018
 
 
 ## DTDE
