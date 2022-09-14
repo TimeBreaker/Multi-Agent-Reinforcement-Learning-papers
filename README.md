@@ -384,7 +384,7 @@ Paper|Code|Accepted at|Year
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks](https://arxiv.org/pdf/2112.02845)|||2021
-[Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/pdf/2205.14953)|||2022
+[Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/pdf/2205.14953)|https://github.com/PKU-MARL/Multi-Agent-Transformer||2022
 [Towards Flexible Inference in Sequential Decision Problems via Bidirectional Transformers](https://arxiv.org/abs/2204.13326)|||2022
 
 
