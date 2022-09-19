@@ -264,7 +264,7 @@ Paper|Code|Accepted at|Year
 
 ## Exploration
 
-### Dense Reward
+### Dense Reward Exploration
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/MARL-Algorithms|NIPS|2019
@@ -272,7 +272,7 @@ Paper|Code|Accepted at|Year
 [Episodic Multi-agent Reinforcement Learning with Curiosity-driven Exploration](https://proceedings.neurips.cc/paper/2021/file/1e8ca836c962598551882e689265c1c5-Paper.pdf)||NIPS|2021
 [Celebrating Diversity in Shared Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/file/20aee3a5f4643755a79ee5f6a73050ac-Paper.pdf)|https://github.com/lich14/CDS|NIPS|2021
 
-### Sparse Reward
+### Sparse Reward Exploration
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [EITI/EDTI：Influence-Based Multi-Agent Exploration](https://arxiv.org/pdf/1910.05512)|https://github.com/TonghanWang/EITI-EDTI|ICLR|2020
