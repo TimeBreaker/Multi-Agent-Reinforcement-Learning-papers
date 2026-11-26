@@ -358,6 +358,7 @@ Paper|Code|Accepted at|Year
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [Model-based Multi-Agent Reinforcement Learning with Cooperative Prioritized Sweeping](https://arxiv.org/pdf/2001.07527)|||2020
+[MABL: Bi-Level Latent-Variable World Model for Sample-Efficient Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2304.06011)|https://github.com/aravindvenu7/MABL|AAMAS|2024
 
 
 ## NAS
@@ -543,6 +544,8 @@ Paper|Code|Accepted at|Year
 [SIDE: State Inference for Partially Observable Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1400.pdf)|https://github.com/deligentfool/SIDE|AAMAS|2022
 [UNMAS: Multiagent Reinforcement Learningfor Unshaped Cooperative Scenarios](https://arxiv.org/pdf/2203.14477)|https://github.com/James0618/unmas|TNNLS|2021
 [Context-Aware Sparse Deep Coordination Graphs](https://arxiv.org/pdf/2106.02886)|https://github.com/TonghanWang/CASEC-MACO-benchmark|ICLR|2022
+[MAVIPER: Learning Decision Tree Policies for Interpretable Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2205.12449)|https://github.com/stephmilani/multiagent-viper|ECML-PKDD|2022
+[HYDRAVIPER: Making Teams and Influencing Agents: Efficiently Coordinating Decision Trees for Interpretable Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2505.19316)|https://github.com/lythronaxargestes/hydraviper-public|AIES|2025
 
 
 ## TODO
